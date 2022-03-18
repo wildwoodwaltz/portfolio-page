@@ -14,12 +14,11 @@
       {
         "title": "Salmon Cookies",
         "startDate": "Feb 2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "One of my first web development projects I have done in quite a few years. I am proud of how the end result turned out. Check out some of the CSS styling. This is also my first foray into JavaScript.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/cookies/p1.jpg"
         ],
-        "url": "",
+        "url": "https://wildwoodwaltz.github.io/cookie-stand/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -36,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Horned Beasts Gallery",
+        "startDate": "Mar 2022",
+        "description": "Class project which uses a combination of HTML, CSS, React, and plain JS. This was my first time working with Component based archetecture. Excited to keep using it.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://cocky-albattani-9bb095.netlify.app",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -52,13 +51,17 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "401: Advanced Dev Python",
+        "startDate": "Jun 2022",
+        "description": "My first Python developed application, I am very excited to keep using what I've learned and expland my codex of knowledge",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -66,16 +69,8 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       }
