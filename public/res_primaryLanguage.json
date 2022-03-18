@@ -77,30 +77,31 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "01.2022 - Present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Javascript"
         ],
         "technologies": [
+          "Python",
+          "HTML5",
+          "CSS 3",
+          "Bootstrap",
           "JavaScript",
-          "Bootstrap"
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Puget Sound Eye Care",
+        "title": "Lead Medical Technician",
+        "years": "06.2018 - 01.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Crystal PM"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Domain Specific Language",
+          "Visual Basic"
         ]
       }
     ]
