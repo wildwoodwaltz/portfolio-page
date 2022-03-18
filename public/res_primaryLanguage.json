@@ -1,7 +1,8 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Well, Hello There!",
+      "description": "I'm Tyler Egashira. I am a software developer with a passion for empowering people to make their lives more easily through the use of technology. Development and deployment of software and firmware was something that I looked at for a long time, before making the jump from the medical field to technology. Everything we use today is touched by technology, from agriculture to entertainment. I find a passion in empowering people to live their lives more easily through the use of technology. The world is changing every day, and technology has become such an integral part of it. Using my skills in communication, logical deduction, and research. I firmly believe that I can be a part of that change, helping technology become more accessible for all.",
+
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,8 +12,8 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "Salmon Cookies",
+        "startDate": "Feb 2022",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
@@ -21,16 +22,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain"
           }
         ]
       },
@@ -88,15 +89,8 @@
           "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Bootstrap"
         ]
       },
       {
