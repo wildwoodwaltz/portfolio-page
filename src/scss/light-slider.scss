@@ -3,7 +3,7 @@ $cos45: 0.7071;
 $transition-bezier: cubic-bezier(0.5, 0.075, 0.25, 0.95);
 $slider-height-percentage: 60%;
 $slider-transition-duration: 575ms;
-$organic-arrow-color: #D7CAAA;
+$organic-arrow-color: #1a8daa;
 $organic-arrow-thickness: 4px;
 $organic-arrow-height: 40px;
 $organic-arrow-border-radius: 0;
@@ -12,11 +12,11 @@ $control-button-height: 25%;
 $control-button-opacity: 0.5;
 $control-button-hover-opacity: 0.75;
 $control-button-background: transparent;
-$loader-bar-color:#BFAA76;
+$loader-bar-color:#1a8daa;
 $loader-bar-height: 6px;
-$control-bullet-color: #D7CAAA;
-$control-bullet-active-color: #D7CAAA;
-$content-background-color: #D7CAAA;
+$control-bullet-color: #3dbcdb;
+$control-bullet-active-color: #3dbcdb;
+$content-background-color: #3dbcdb;
 
 %fill-parent {
   display: block;
@@ -92,7 +92,7 @@ $content-background-color: #D7CAAA;
     }
   }
   &__startUp {
-    background-color: red;
+    background-color: rgb(129, 19, 19);
     height: 100%;
     width: 100%;
 
@@ -322,7 +322,7 @@ $content-background-color: #D7CAAA;
     }
     &:before {
       transform-origin: 100% 100% 0;
-      // background-color: rgba(76, 177, 6, 0.75);
+      background-color: rgba(76, 177, 6, 0.75);
       top: -50%;
       transform: rotate(-45deg);
     }
